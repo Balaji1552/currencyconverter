@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import InputBox from '/InputBox';
+import InputBox from './InputBox';
 import { useState } from 'react';
 import useCurrencyInfo from './useCUrrencyInfo';
 
